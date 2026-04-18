@@ -13,10 +13,10 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/Piramo10">
     <img src="https://img.shields.io/badge/GitHub-Piramo10-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
+  <a href="https://instagram.com/henrique.piramo">
     <img src="https://img.shields.io/badge/Instagram-@henrique.piramo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
@@ -86,5 +86,3 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
-
-
